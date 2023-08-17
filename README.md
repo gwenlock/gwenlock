@@ -7,17 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsanzu&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsanzu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anzu121_" target="blank"><img src="https://img.shields.io/twitter/follow/anzu121_?logo=twitter&style=for-the-badge" alt="anzu121_" /></a> </p>
-
 - 🌱 I’m currently learning **Ruby**
 
 - My Bookmark Website [gabrielwm.me](gabrielwm.me)
 
-- 💬 Ask me about **reverse proxying, hosting, containers and all things web related**
-
-- 📫 How to reach me **gabrielwenlock@gmail.com**
-
-- ⚡ Fun fact **I'm a highly competitive climber, climbing up to V11**
+- 💬 Ask me about **reverse proxying, hosting, containers and all things web related***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
