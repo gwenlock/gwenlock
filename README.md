@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Anzu</h1>
 <h3 align="center">I'm a student and web developer currently studying computer science</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/54/54c8979b0b463c89622fdea0b1afc525.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsanzu&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsanzu" /> </p>
-
 - 🌱 I’m currently learning **Ruby**
 
 - My Bookmark Website [gabrielwm.me](gabrielwm.me)
