@@ -1,4 +1,3 @@
-[![MasterHead](https://giffiles.alphacoders.com/491/49146.gif)](https://gabrielwm.me)
 
 <h1 align="center">Hi 👋, I'm Anzu</h1>
 <h3 align="center">I'm a student and web developer currently studying computer science</h3>
